@@ -1,2 +1,2 @@
 # l10n_za
-Localization data for South Africa
+Localization seed files for OFN South Africa installation.
