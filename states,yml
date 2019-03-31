@@ -1,0 +1,37 @@
+---
+- name: Eastern Cape
+  country_id: '174'
+  id: '60'
+  abbr: EC
+- name: Free State
+  country_id: '174'
+  id: '61'
+  abbr: FS
+- name: Gauteng
+  country_id: '174'
+  id: '62'
+  abbr: GT
+- name: KwaZulu-Natal
+  country_id: '174'
+  id: '63'
+  abbr: KZN
+- name: Limpopo
+  country_id: '174'
+  id: '64'
+  abbr: LP
+- name: Mpumalanga
+  country_id: '174'
+  id: '65'
+  abbr: MP
+- name: North West
+  country_id: '174'
+  id: '66'
+  abbr: NW
+- name: Northern Cape
+  country_id: '174'
+  id: '67'
+  abbr: NC
+- name: Western Cape
+  country_id: '174'
+  id: '68'
+  abbr: WC
